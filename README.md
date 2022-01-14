@@ -2,7 +2,7 @@
 
 A short Description 
 
-Open [Live Demo](<the link>) to view it in action.
+Open [Live Demo](https://contact-jadu.netlify.app/) to view it in action.
 
 
 ![preview sreenshot](screenShot.jpg)
